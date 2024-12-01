@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Sun, 01 Dec 2024 17:07:36 at https://vdelo.pro
+(httrack https://vdelo.pro -O ./mywebsite )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:07:37	Warning: 	Note: due to https://vdelo.pro remote robots.txt rules, links beginning with these path will be forbidden: /admin, /app, /docs, /*?*=* (see in the options to disable this)
+17:10:15	Error: 	"Not Found" (404) at link https://vdelo.pro/'/images/command-slider-background.webp' (from https://vdelo.pro/)
+17:10:16	Error: 	"Not Found" (404) at link https://vdelo.pro/documents/ÐÐ°ÐºÐ»Ð°Ð´Ð½Ð°Ñ.pdf (from https://vdelo.pro/documents/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 40 seconds : 160 links scanned, 157 files written (7770147 bytes overall) [7574071 bytes received at 47337 bytes/sec], 322483 bytes transferred using HTTP compression in 8 files, ratio 21%, 27.3 requests per connection
+(2 errors, 1 warnings, 0 messages)

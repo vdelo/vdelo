@@ -1,0 +1,1 @@
+import{s as o}from"./entry.043f00b6.js";const m=async a=>{o.emit("message-start",a);let e,t;const n=s=>{t=s,e?e():console.error("DONT CLOSE MESSAGE")};return await new Promise(s=>{e=s,o.on("message-done",n)}),o.off("message-done",n),t};export{m as $};

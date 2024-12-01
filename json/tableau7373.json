@@ -1,0 +1,9 @@
+{
+    "version": "1.2",
+    "api_version": 1,
+    "layout": {
+        "logo": "https://dev.vdelo.pro/tableau.png",
+        "color": "#ffffff",
+        "show_title": true
+    }
+}
